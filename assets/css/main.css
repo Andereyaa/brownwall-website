@@ -392,6 +392,15 @@ body {
     justify-content: start;
 }
 
+.team-photo-img-ag {
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    align-items: start;
+    align-items: start;
+    justify-content: start;
+}
+
 .team-info {
     padding: 2rem;
 }
